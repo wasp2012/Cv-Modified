@@ -1,0 +1,161 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-size: 1.4rem;
+  background-color:  #f6fdfd;
+
+}
+
+
+
+h2{
+  color: #66BFBF;
+}
+
+a{
+  color: #11999E;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+h3{
+  color: #11999E;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  margin: 50px auto;
+  width: 5%;
+  
+}
+
+p{
+  line-height: 1.5;
+  color: #40514E;
+
+}
+
+a:hover{
+
+  color: #08fafa;
+
+}
+.profile-photo{
+  width: 250px;
+  height: 250px;
+}
+
+.top-container{
+  background-color:  #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.top-container-h1{
+
+  font-family: 'MonteCarlo', cursive;
+  font-size: 60px;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+
+
+.top-container-p{
+  font-family: 'Henny Penny', cursive;
+  font-size: 30px;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px
+
+}
+
+.middle-container{
+  margin: 100px auto;
+}
+
+
+.mid-container-p{
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+}
+
+.skills-photo{
+
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.skill-row-photo{
+  width: 25%;
+  float: right;
+  margin-left: 25px;
+}
+
+
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 0;
+  padding: 50px 0 20px;
+}
+
+
+.contact-me{
+  margin: 10px auto;
+  width: 40%;
+  padding: 5px;
+}
+
+
+.btn{
+  background: #3D94F6;
+  color: #FFFFFF;
+  text-decoration: none;
+  border-radius: 20px;
+  padding: 10px;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.btn:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+
+.footer-link{
+  color: #11999E;
+  margin: 40px 30px;
+  text-decoration: none;
+
+}
+
+.footer-p{
+  color: #EAF6F6;
+  font-size: 16px;
+  padding: 10px 0;
+}
